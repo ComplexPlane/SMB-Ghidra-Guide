@@ -22,7 +22,9 @@ Once you've made an account:
 
 ## Using SuperMonkeyBallTools
 
-The SuperMonkeyBallTools plugin lets you quickly jump between addresses in Ghidra and memory addresses in the game. This is useful because REL modules are not mapped to the same addresses in Ghidra as in the game, and they overlap in-game due to dynamic linking. Go to Window -> SMB: Convert Address to show the window with address conversions. Also extremely useful: press Shift+G and paste in a game memory address to jump to the location in Ghidra. The plugin also supports exporting complete symbol maps and C/C++ headers, if you're interested in that.
+The SuperMonkeyBallTools plugin lets you quickly jump between addresses in Ghidra and memory addresses in the game. This is useful because REL modules are not mapped to the same addresses in Ghidra as in the game, and they overlap in-game due to dynamic linking. Go to Window -> SMB: Convert Address to show the window with address conversions.
+
+Also extremely useful: press Shift+G and paste in a game memory address to jump to the location in Ghidra.
 
 In the Convert Address window, there are also buttons which can export symbols and C++ headers for SMB2PracticeMod and SMB2WorkshopMod.
 
