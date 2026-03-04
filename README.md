@@ -46,7 +46,7 @@ Checking in your changes often is recommended to avoid manual merges and so othe
 
 ## Learning Ghidra
 
-* [Ghidra Cheat Sheet](https://ghidra-sre.org/CheatSheet.html)
+* Ghidra Cheat Sheet (in your Ghidra install dir, under `docs/CheatSheet.html`)
 * [Ghidra quickstart & tutorial: Solving a simple crackme - YouTube](https://www.youtube.com/watch?v=fTGTnrgjuGA&t=243s)
 
 The Ghidra manual is also pretty readable and helpful (Help -> Contents).
